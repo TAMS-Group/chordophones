@@ -1,9 +1,8 @@
 # chordophones
 ROS/Gazebo models of fretted stringed instruments.
 
-##chordophones
-
-ROS/Gazebo object models of a few fretted stringed music instruments:
+This ROS package provides 
+URDF/Gazebo object models of a few fretted stringed music instruments:
 (electric) bass, guitar, ukule, pipa.
 We plan to use these models as affordance-rich demo objects for grasp and manipulation planning and learning, 
 both in simulation and on our real robots.
