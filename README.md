@@ -12,7 +12,7 @@ scientific classificiation term for the package name.
 Actually, there is no sound yet, but we are planning a Gazebo plugin
 that observes string motion and generates MIDI/audio output.
 
-##Getting Started
+## Getting Started
 
 Well, these are complicated objects. You probably want to use them together with humanoid robots and multifingered hands.
 
@@ -27,4 +27,4 @@ Just kidding, we're not there yet. Try this instead:
 
 roslaunch chordophones tams_pr2_paula_chromatic_scale.launch
 
-##Known Issues
+## Known Issues
